@@ -32,5 +32,5 @@ git clone https://github.com/Gson-glitch/Red-Wine-Quality-Classifier-using-Neura
 
 You can install these dependencies using pip. For example:
 
-```sh
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow 
